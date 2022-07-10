@@ -1,4 +1,2 @@
-# testrepo2205
-new testrepo may 2022
-
-Some extra text
+# Data science capstone project
+This repository contains the various workbooks and other code used in the IBM data science capstone project
